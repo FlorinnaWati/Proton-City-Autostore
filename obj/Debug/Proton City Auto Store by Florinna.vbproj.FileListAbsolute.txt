@@ -1,1 +1,12 @@
 c:\users\p340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\bin\Debug\Proton City Auto Store by Florinna.exe.config
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\bin\Debug\Proton City Auto Store by Florinna.exe
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\bin\Debug\Proton City Auto Store by Florinna.pdb
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\bin\Debug\Proton City Auto Store by Florinna.xml
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\obj\Debug\Proton City Auto Store by Florinna.vbprojResolveAssemblyReference.cache
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\obj\Debug\Proton_City_Auto_Store_by_Florinna.Form1.resources
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\obj\Debug\Proton_City_Auto_Store_by_Florinna.frm_config.resources
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\obj\Debug\Proton_City_Auto_Store_by_Florinna.Resources.resources
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\obj\Debug\Proton City Auto Store by Florinna.vbproj.GenerateResource.Cache
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\obj\Debug\Proton City Auto Store by Florinna.exe
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\obj\Debug\Proton City Auto Store by Florinna.xml
+C:\Users\P340\documents\visual studio 2015\Projects\Proton City Auto Store by Florinna\Proton City Auto Store by Florinna\obj\Debug\Proton City Auto Store by Florinna.pdb

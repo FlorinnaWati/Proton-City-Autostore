@@ -27,6 +27,8 @@ Partial Class Form1
         Me.Button6 = New System.Windows.Forms.Button()
         Me.ListBox1 = New System.Windows.Forms.ListBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.btnConfig = New System.Windows.Forms.Button()
+        Me.btnExit = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -64,11 +66,31 @@ Partial Class Form1
         Me.PictureBox1.TabIndex = 8
         Me.PictureBox1.TabStop = False
         '
+        'btnConfig
+        '
+        Me.btnConfig.Location = New System.Drawing.Point(263, 128)
+        Me.btnConfig.Name = "btnConfig"
+        Me.btnConfig.Size = New System.Drawing.Size(101, 23)
+        Me.btnConfig.TabIndex = 9
+        Me.btnConfig.Text = "button Config"
+        Me.btnConfig.UseVisualStyleBackColor = True
+        '
+        'btnExit
+        '
+        Me.btnExit.Location = New System.Drawing.Point(263, 165)
+        Me.btnExit.Name = "btnExit"
+        Me.btnExit.Size = New System.Drawing.Size(101, 23)
+        Me.btnExit.TabIndex = 10
+        Me.btnExit.Text = "exit"
+        Me.btnExit.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(401, 317)
+        Me.Controls.Add(Me.btnExit)
+        Me.Controls.Add(Me.btnConfig)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.ListBox1)
         Me.Controls.Add(Me.Button6)
@@ -85,4 +107,6 @@ Partial Class Form1
     Friend WithEvents Button6 As Button
     Friend WithEvents ListBox1 As ListBox
     Friend WithEvents PictureBox1 As PictureBox
+    Friend WithEvents btnConfig As Button
+    Friend WithEvents btnExit As Button
 End Class
